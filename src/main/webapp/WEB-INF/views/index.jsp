@@ -6,9 +6,7 @@
     <hr>
     <h1>${msg}</h1>
     <h1>Hi, there (updated by dowon)</h1>
-    <h2>I'm edward who change the code</h2>
-    <h2>leave message cause first build failed</h2>
-    <h2>leave message cause origin docker container removed</h2>
+    <h3>Version: 1.0</h3>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.0</h3>
 </body>
